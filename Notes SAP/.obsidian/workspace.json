@@ -4,24 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "d1e3112472b5b777",
+        "id": "4b967865f2edfdeb",
         "type": "tabs",
         "children": [
           {
-            "id": "a63133141ea54f84",
+            "id": "ace92c8ef03ff640",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4-Indexes/Flux MM.md",
+                "file": "6-Notes/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Flux MM"
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "d79426fd1e333b69",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6-Notes/MD02.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MD02"
+            }
+          },
+          {
+            "id": "b75ef482121c067e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6-Notes/Untitled 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 1"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4-Indexes/Flux MM.md",
+                "file": "6-Notes/MD02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +132,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Flux MM"
+              "title": "Backlinks for MD02"
             }
           },
           {
@@ -161,34 +190,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a63133141ea54f84",
+  "active": "d79426fd1e333b69",
   "lastOpenFiles": [
-    "6-Notes/Processus d'approvisionnement simple.md",
-    "4-Indexes/Flux MM.md",
-    "3-Tags/BC.md",
-    "3-Tags/Prérequi_MM.md",
-    "3-Tags/MRP.md",
-    "2-Sources Material/ABAP.md",
-    "2-Sources Material/MRP.md",
-    "2-Sources Material/MM.md",
-    "3-Tags/MM.md",
-    "3-Tags/Flux_MM.md",
-    "2-Sources Material/FI.md",
-    "3-Tags/FI.md",
-    "2-Sources Material/BC.md",
-    "3-Tags/ABAP.md",
-    "6-Notes/STATS.md",
-    "6-Notes/STAD.md",
-    "6-Notes/ST03N.md",
-    "6-Notes/FILE.md",
-    "6-Notes/AL11.md",
-    "6-Notes/SU53.md",
-    "6-Notes/SE38.md",
-    "6-Notes/SU38.md",
-    "6-Notes/SE11.md",
-    "6-Notes/SM50.md",
-    "6-Notes/FB50.md",
-    "6-Notes/SM37.md",
+    "6-Notes/ME59N.md",
+    "6-Notes/AW01N.md",
+    "6-Notes/MMD7.md",
+    "6-Notes/ME31K.md",
+    "6-Notes/ME51N.md",
+    "6-Notes/Untitled 2.md",
+    "6-Notes/Untitled.md",
+    "5-Templates/Full Note.md",
+    "6-Notes/Untitled 1.md",
+    "6-Notes/MD05.md",
+    "6-Notes/ME11.md",
+    "6-Notes/F1060.md",
+    "6-Notes/MIRO.md",
+    "6-Notes/VL31N.md",
+    "6-Notes/SE93.md",
+    "6-Notes/ABAPHELP.md",
+    "6-Notes/ABAPDOCU.md",
+    "6-Notes/AS03.md",
+    "2-Sources Material/AA.md",
+    "3-Tags/AA.md",
+    "6-Notes/AS01.md",
+    "6-Notes/ME21N.md",
+    "6-Notes/SP01.md",
+    "6-Notes/F107.md",
+    "6-Notes/FB70.md",
+    "6-Notes/ME2L.md",
     "Untitled.canvas",
     "1-Rough Notes/test.txt",
     "1-Rough Notes/Nouveau Document texte.txt",
