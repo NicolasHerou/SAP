@@ -1,0 +1,454 @@
+{
+  "main": {
+    "id": "86ec068dd475a241",
+    "type": "split",
+    "children": [
+      {
+        "id": "de356be9933233a1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "343f5fd764c6ea89",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "48310f19c108d642",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6-Notes/Processus avancé d'approvisionnement.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Processus avancé d'approvisionnement"
+            }
+          },
+          {
+            "id": "a14b5c7a9fb80476",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6-Notes/Entrée marchandises.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Entrée marchandises"
+            }
+          },
+          {
+            "id": "ae082978fcb4aea0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6-Notes/Création facture.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Création facture"
+            }
+          },
+          {
+            "id": "773c3b4797112d8a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6-Notes/Création contrat d'achat.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Création contrat d'achat"
+            }
+          },
+          {
+            "id": "54cf31234609537f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6-Notes/Création contrat d'achat.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Création contrat d'achat"
+            }
+          },
+          {
+            "id": "bf6d45a1c074871a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6-Notes/Business Partner - Fournisseur.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Business Partner - Fournisseur"
+            }
+          },
+          {
+            "id": "b070d300106f5014",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6-Notes/Article.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Article"
+            }
+          },
+          {
+            "id": "66ed92d02269fe92",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6-Notes/Fiche infos-achats.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Fiche infos-achats"
+            }
+          },
+          {
+            "id": "58563885af65a3cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6-Notes/ABAPHELP.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ABAPHELP"
+            }
+          },
+          {
+            "id": "ee7fd715cb5d0526",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6-Notes/KTRAN.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "KTRAN"
+            }
+          },
+          {
+            "id": "b4147f02f23201d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6-Notes/search_sap_menu.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "search_sap_menu"
+            }
+          },
+          {
+            "id": "155fe939d7e8beeb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6-Notes/Gestion des données de base fournisseurs.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Gestion des données de base fournisseurs"
+            }
+          },
+          {
+            "id": "cef145985c2e8e52",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6-Notes/ABAP Documentation and examples.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ABAP Documentation and examples"
+            }
+          },
+          {
+            "id": "d490e586233d4069",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6-Notes/ST22.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ST22"
+            }
+          },
+          {
+            "id": "13f04b00bd40451d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6-Notes/Purchase Order.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Purchase Order"
+            }
+          },
+          {
+            "id": "7d118a13141a5b8a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6-Notes/Création de contrat.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Création de contrat"
+            }
+          },
+          {
+            "id": "e485fd85525c992e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6-Notes/SE11.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SE11"
+            }
+          },
+          {
+            "id": "2deaf8725d3d31c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6-Notes/SE16N.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SE16N"
+            }
+          }
+        ],
+        "currentTab": 18
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4e1663912485cefa",
+    "type": "split",
+    "children": [
+      {
+        "id": "2c82786ddf71445b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9b85df41ae6e0279",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "39722e10d218b00c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "edd7b30c5acd67ca",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "6bc3d9beb9a925b4",
+    "type": "split",
+    "children": [
+      {
+        "id": "0fc2ded622cd90ac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6865529373acee6c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "5-Templates/Full Note.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Full Note"
+            }
+          },
+          {
+            "id": "c3d0a101156e8c3e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "5-Templates/Full Note.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Full Note"
+            }
+          },
+          {
+            "id": "af0e82ef4aafba64",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "3143c2b683c4ee77",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "5-Templates/Full Note.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Full Note"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "smart-random-note:Open Random Note from Search": false
+    }
+  },
+  "active": "9b85df41ae6e0279",
+  "lastOpenFiles": [
+    "1-Rough Notes/Untitled - Copie (2).md",
+    "1-Rough Notes/Untitled - Copie.md",
+    "1-Rough Notes/test.txt",
+    "1-Rough Notes/Nouveau Document texte.txt",
+    "6-Notes/SE16N.md",
+    "6-Notes/SE11.md",
+    "6-Notes/SM50.md",
+    "6-Notes/SM37.md",
+    "6-Notes/SM35.md",
+    "6-Notes/SM13.md",
+    "6-Notes/SM12.md",
+    "6-Notes/ST22.md",
+    "6-Notes/ST07.md",
+    "6-Notes/SM21.md",
+    "6-Notes/SM20.md",
+    "6-Notes/SM19.md",
+    "6-Notes/Untitled 5.md",
+    "6-Notes/ABAP Documentation and examples.md",
+    "5-Templates/Full Note.md",
+    "6-Notes/SM04.md",
+    "6-Notes/SM03.md",
+    "6-Notes/SM02.md",
+    "6-Notes/SPRO.md",
+    "6-Notes/Untitled 4.md",
+    "6-Notes/Gestion des données de base fournisseurs.md",
+    "6-Notes/BP.md",
+    "6-Notes/SHDB.md",
+    "6-Notes/Untitled 3.md",
+    "Sourcing and Procurement in SAP",
+    "Assets",
+    "6-Notes",
+    "5-Templates",
+    "4-Indexes",
+    "3-Tags",
+    "2-Sources Material",
+    "1-Rough Notes"
+  ]
+}
