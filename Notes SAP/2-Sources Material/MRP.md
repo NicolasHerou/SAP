@@ -1,0 +1,1 @@
+https://learning.sap.com/learning-journeys/explore-fashion-functions-and-business-processes-in-sap-s-4hana-for-fashion-and-vertical-business/explaining-material-requirements-planning-mrp-_f68383c8-cf65-4afb-862a-6e15718009fd

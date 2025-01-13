@@ -1,0 +1,1 @@
+https://learning.sap.com/learning-journeys/explore-integrated-business-processes-in-sap-s-4hana-/explaining-financial-accounting-fi-_ac80eccb-d21a-4a79-a377-8d98b6c6b027

@@ -8,451 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1d3e9334f13b8425",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6-Notes/SM30.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "SM30"
-            }
-          },
-          {
-            "id": "c1cb9dd9308b689f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6-Notes/SU53.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "SU53"
-            }
-          },
-          {
-            "id": "b5aad14f5c19acc4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6-Notes/AL11.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "AL11"
-            }
-          },
-          {
-            "id": "5585be276f372751",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6-Notes/ST03N.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ST03N"
-            }
-          },
-          {
-            "id": "e9fdfaecc68b1b9e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6-Notes/STAD.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "STAD"
-            }
-          },
-          {
-            "id": "4518ac89b5ee49f8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6-Notes/STATS.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "STATS"
-            }
-          },
-          {
-            "id": "32177b0e2f0d75f2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6-Notes/FB01.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "FB01"
-            }
-          },
-          {
-            "id": "e553f1cf336f90ba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6-Notes/FB02.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "FB02"
-            }
-          },
-          {
-            "id": "fa90bd4e2e3e60fb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6-Notes/FB02.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "FB02"
-            }
-          },
-          {
-            "id": "4565d1d5a790385c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6-Notes/F110.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "F110"
-            }
-          },
-          {
-            "id": "670b3511d1d95bd1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6-Notes/FB50.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "FB50"
-            }
-          },
-          {
-            "id": "7385b14b25671d6b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6-Notes/FB50.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "FB50"
-            }
-          },
-          {
-            "id": "7d09081f96c73b6e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6-Notes/FB70.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "FB70"
-            }
-          },
-          {
-            "id": "adecdc4b2792938b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6-Notes/SP01.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "SP01"
-            }
-          },
-          {
-            "id": "225f29433de50da2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6-Notes/ME2L.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ME2L"
-            }
-          },
-          {
-            "id": "a3556c6cf3abb8cf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6-Notes/ME21N.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ME21N"
-            }
-          },
-          {
-            "id": "81b6a3a2a472ed1f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6-Notes/AS01.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "AS01"
-            }
-          },
-          {
-            "id": "d931fd83ac59e92a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6-Notes/AS03.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "AS03"
-            }
-          },
-          {
-            "id": "96413266b3656be6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6-Notes/AX01N.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "AX01N"
-            }
-          },
-          {
-            "id": "1d474bc1653ba31c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6-Notes/ABAPDOCU.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ABAPDOCU"
-            }
-          },
-          {
-            "id": "ae45bd835bb67bff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6-Notes/ABAPHELP.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ABAPHELP"
-            }
-          },
-          {
-            "id": "5851d87fad85f13c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6-Notes/VL31N.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "VL31N"
-            }
-          },
-          {
-            "id": "9cc273799bb1067e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6-Notes/MIRO.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "MIRO"
-            }
-          },
-          {
-            "id": "8654e5994446529f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6-Notes/ME05.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ME05"
-            }
-          },
-          {
-            "id": "34e3068983140133",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6-Notes/ME31K.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ME31K"
-            }
-          },
-          {
-            "id": "171c042eb4d0ac82",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6-Notes/MMD7.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "MMD7"
-            }
-          },
-          {
-            "id": "2881e9792ad6af16",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6-Notes/MD01N.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "MD01N"
-            }
-          },
-          {
-            "id": "568b96cbaf11a03b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6-Notes/MD02.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "MD02"
-            }
-          },
-          {
-            "id": "0c4d4ab9e308a72f",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "80b891ddef3dbdef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6-Notes/MD05.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "MD05"
-            }
-          },
-          {
-            "id": "1f06432d4aab4449",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6-Notes/MD08.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "MD08"
-            }
-          },
-          {
             "id": "a63133141ea54f84",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6-Notes/MB01.md",
+                "file": "3-Tags/BC.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MB01"
+              "title": "BC"
             }
           }
-        ],
-        "currentTab": 31
+        ]
       }
     ],
     "direction": "vertical"
@@ -524,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6-Notes/MB01.md",
+                "file": "3-Tags/BC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -534,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for MB01"
+              "title": "Backlinks for BC"
             }
           },
           {
@@ -594,32 +163,32 @@
   },
   "active": "a63133141ea54f84",
   "lastOpenFiles": [
-    "6-Notes/MB00.md",
-    "6-Notes/MB01.md",
-    "6-Notes/MD08.md",
-    "6-Notes/MD06.md",
-    "6-Notes/Untitled 5.md",
-    "6-Notes/MD05.md",
-    "6-Notes/MD04P.md",
-    "6-Notes/MD02.md",
-    "6-Notes/MD01N.md",
-    "6-Notes/MMD7.md",
-    "6-Notes/ME31K.md",
-    "6-Notes/VL31N.md",
-    "6-Notes/ME51N.md",
-    "6-Notes/ME59N.md",
-    "6-Notes/ME05.md",
-    "6-Notes/ME11.md",
-    "6-Notes/F1060.md",
-    "6-Notes/MIRO.md",
-    "6-Notes/Untitled 4.md",
-    "6-Notes/SE93.md",
-    "6-Notes/Untitled 3.md",
-    "6-Notes/ABAPHELP.md",
-    "6-Notes/Untitled 2.md",
-    "6-Notes/ABAPDOCU.md",
-    "6-Notes/AX01N.md",
-    "6-Notes/AS03.md",
+    "3-Tags/Prérequi_MM.md",
+    "3-Tags/MRP.md",
+    "2-Sources Material/ABAP.md",
+    "2-Sources Material/MRP.md",
+    "2-Sources Material/MM.md",
+    "3-Tags/MM.md",
+    "3-Tags/Flux_MM.md",
+    "2-Sources Material/FI.md",
+    "3-Tags/FI.md",
+    "2-Sources Material/BC.md",
+    "3-Tags/BC.md",
+    "3-Tags/ABAP.md",
+    "6-Notes/STATS.md",
+    "6-Notes/STAD.md",
+    "6-Notes/ST03N.md",
+    "6-Notes/FILE.md",
+    "6-Notes/AL11.md",
+    "6-Notes/SU53.md",
+    "6-Notes/SE38.md",
+    "6-Notes/SU38.md",
+    "6-Notes/SE11.md",
+    "6-Notes/SM50.md",
+    "6-Notes/FB50.md",
+    "6-Notes/SM37.md",
+    "6-Notes/SM12.md",
+    "6-Notes/SHDB.md",
     "Untitled.canvas",
     "1-Rough Notes/test.txt",
     "1-Rough Notes/Nouveau Document texte.txt",
