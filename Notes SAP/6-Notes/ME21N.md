@@ -7,6 +7,6 @@ Tags
 
 # Remarques
 
-
+Crée Purchase Order (PO - Bon de commande - commande d'achat)
 # References
 [[Gestion des commandes d'achat]]

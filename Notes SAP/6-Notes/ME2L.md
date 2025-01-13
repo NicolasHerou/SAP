@@ -7,5 +7,5 @@ Tags
 
 # Remarques
 
-
+Affiche des documents d'achats par fournisseurs
 # References
