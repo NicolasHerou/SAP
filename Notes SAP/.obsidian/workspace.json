@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Tags/BC.md",
+                "file": "4-Indexes/Flux MM.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "BC"
+              "title": "Flux MM"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-Tags/BC.md",
+                "file": "4-Indexes/Flux MM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for BC"
+              "title": "Backlinks for Flux MM"
             }
           },
           {
@@ -163,6 +163,9 @@
   },
   "active": "a63133141ea54f84",
   "lastOpenFiles": [
+    "6-Notes/Processus d'approvisionnement simple.md",
+    "4-Indexes/Flux MM.md",
+    "3-Tags/BC.md",
     "3-Tags/Prérequi_MM.md",
     "3-Tags/MRP.md",
     "2-Sources Material/ABAP.md",
@@ -173,7 +176,6 @@
     "2-Sources Material/FI.md",
     "3-Tags/FI.md",
     "2-Sources Material/BC.md",
-    "3-Tags/BC.md",
     "3-Tags/ABAP.md",
     "6-Notes/STATS.md",
     "6-Notes/STAD.md",
@@ -187,8 +189,6 @@
     "6-Notes/SM50.md",
     "6-Notes/FB50.md",
     "6-Notes/SM37.md",
-    "6-Notes/SM12.md",
-    "6-Notes/SHDB.md",
     "Untitled.canvas",
     "1-Rough Notes/test.txt",
     "1-Rough Notes/Nouveau Document texte.txt",
