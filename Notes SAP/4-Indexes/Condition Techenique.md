@@ -1,8 +1,7 @@
 
-|                      |     |
-| -------------------- | --- |
-| [[Procedure]]        |     |
-| [[Access Sequance]]  |     |
-| [[Condition Regard]] |     |
-|                      |     |
-|                      |     |
+|                      |
+| -------------------- |
+| [[Procedure]]        |
+| [[Access Sequance]]  |
+| [[Condition Regard]] |
+

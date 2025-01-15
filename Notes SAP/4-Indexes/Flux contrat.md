@@ -1,8 +1,8 @@
 
-|                         |     |
-| ----------------------- | --- |
-| [[Demande d'achat]]     |     |
-| [[Contrat]]             |     |
-| [[Purchase Order]]      |     |
-| [[Entrée marchandises]] |     |
-|                         |     |
+|                         |
+| ----------------------- |
+| [[Demande d'achat]]     |
+| [[Contrat]]             |
+| [[Purchase Order]]      |
+| [[Entrée marchandises]] |
+|                         |
