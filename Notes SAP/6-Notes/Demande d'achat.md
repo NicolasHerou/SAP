@@ -14,5 +14,13 @@ Tags
 | Fournisseur           | Au cours du processus d'approvisionnement, le fournisseur est initialement le destinataire de la commande. Il devient ensuite le fournisseur des marchandises, l'auteur de la facture et enfin, le destinataire du paiement.                                                                                               | T-S50C## | [[BP]]   |
 # Remarques
 
+Type de Doc: 
+[[NB]]
 
+Document overiew:
+[[ME5A]]
 # References
+[[ME51N]]
+[[ME52N]]
+[[ME53N]]
+[[ME5A]]
