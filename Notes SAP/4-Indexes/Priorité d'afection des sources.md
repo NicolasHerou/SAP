@@ -3,6 +3,6 @@
 | ----------------------------------------------- | --- |
 | [[Répartition des quotas]]                      |     |
 | [[Répartition des sources d'approvisionnement]] |     |
-| [[Poste de contrat-cadre]]                      |     |
+| [[Contrat]]                                     |     |
 | [[Fiche infos-achats]]                          |     |
 |                                                 |     |

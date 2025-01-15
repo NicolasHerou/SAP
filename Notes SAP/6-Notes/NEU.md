@@ -5,4 +5,5 @@ Tags
 # NEU
 
 table de condition
+catégorie de message
 # References
