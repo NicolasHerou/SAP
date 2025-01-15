@@ -1,0 +1,184 @@
+{
+  "main": {
+    "id": "74dc5d3a0d3e9950",
+    "type": "split",
+    "children": [
+      {
+        "id": "b4533edde4467a61",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d01cd9cb5955bce7",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "Notes SAP/6-Notes/ABAP runtime error (DUMP analyse).md",
+                "bFile": "Notes SAP/6-Notes/ABAP runtime error (DUMP analyse).md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: ABAP runtime error (DUMP analyse)"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9a36a3e07babc47b",
+    "type": "split",
+    "children": [
+      {
+        "id": "a3399a9c243d4fbe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f5a5c8b0b202d7fc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "726c7f9cbc95390b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "2f522704d16f764c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ef67ddecc01a0110",
+    "type": "split",
+    "children": [
+      {
+        "id": "f8d64879ff52678a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a4594ed149581c89",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Notes SAP/4-Indexes/Flux contrat.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Flux contrat"
+            }
+          },
+          {
+            "id": "7adadee32940ab3d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "f46ed4eaf7d880a3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a927fd216b9a2235",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "d981fbff3f5e502d",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "d01cd9cb5955bce7",
+  "lastOpenFiles": [
+    "Notes SAP/4-Indexes/Flux contrat.md",
+    "Notes SAP/6-Notes/Demande d'achat.md",
+    "Notes SAP/4-Indexes/Flux MM.md",
+    "Notes SAP/4-Indexes/Prérequis MM.md",
+    "Notes SAP/4-Indexes/Priorité d'afection des sources.md",
+    "Notes SAP/5-Templates/Full Note.md",
+    "Notes SAP/6-Notes/ABAP runtime error (DUMP analyse).md",
+    "Notes SAP/1-Rough Notes/Untitled.md"
+  ]
+}
