@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-Rough Notes/Logistics.md",
+                "file": "Idon't know.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Logistics"
+              "title": "Backlinks for Idon't know"
             }
           },
           {
@@ -168,18 +168,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-Rough Notes/Logistics.md"
+                "file": "Idon't know.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Logistics"
+              "title": "Outline of Idon't know"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -193,7 +192,7 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "b9a03c685a074acc",
+  "active": "42b7fe6d2f89a054",
   "lastOpenFiles": [
     "test3.md",
     "Idon't know.md",
