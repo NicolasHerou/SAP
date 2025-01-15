@@ -12,5 +12,7 @@ Tags
 | Magasin          | Le magasin est une entité organisationnelle qui permet de différencier les stocks d'articles au sein d'une division.                                                                                                                                                                                                                                                    | 0001(Matériel) |          |
 # Remarques
 
+Document overview: [[MB51]]
 
 # References
+[[MIGO]]
