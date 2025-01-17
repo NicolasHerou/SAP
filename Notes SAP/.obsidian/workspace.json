@@ -13,15 +13,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4-Indexes/Condition Techenique.md",
+                "file": "6-Notes/NB.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Condition Techenique"
+              "title": "NB"
+            }
+          },
+          {
+            "id": "ddb5f2209a8091a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6-Notes/Purchase Order.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Purchase Order"
+            }
+          },
+          {
+            "id": "80511714bb36e9a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6-Notes/Processus avancé d'approvisionnement.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Processus avancé d'approvisionnement"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -93,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4-Indexes/Condition Techenique.md",
+                "file": "6-Notes/Processus avancé d'approvisionnement.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -103,7 +132,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Condition Techenique"
+              "title": "Backlinks for Processus avancé d'approvisionnement"
             }
           },
           {
@@ -161,35 +190,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fde9bbc8a0a46a89",
+  "active": "80511714bb36e9a1",
   "lastOpenFiles": [
+    "4-Indexes/Flux MM.md",
+    "6-Notes/Purchase Order.md",
     "4-Indexes/Flux contrat.md",
+    "6-Notes/Fiche infos-achats.md",
+    "6-Notes/Business Partner - Fournisseur.md",
+    "6-Notes/Création contrat d'achat.md",
+    "6-Notes/Contrat.md",
+    "6-Notes/ME31K.md",
+    "6-Notes/Modifie une fiche article.md",
+    "6-Notes/Modification d'article.md",
+    "6-Notes/Demande d'achat.md",
+    "6-Notes/ME2L.md",
+    "3-Tags/Prérequi_MM.md",
+    "6-Notes/Gestion des données de base fournisseurs.md",
+    "6-Notes/BP.md",
+    "6-Notes/ME21N.md",
+    "6-Notes/NB.md",
+    "6-Notes/Article (MRP).md",
+    "6-Notes/Articles à compléter MM50.md",
     "4-Indexes/Condition Techenique.md",
     "6-Notes/Source Liste.md",
     "6-Notes/Gestion des répertoires des sources d'approvisionnement.md",
     "6-Notes/ME01.md",
     "4-Indexes/Prérequis MM.md",
     "4-Indexes/Priorité d'afection des sources.md",
-    "6-Notes/Fiche infos-achats.md",
     "6-Notes/MAHN.md",
-    "6-Notes/Donnée Organisationnel.md",
-    "6-Notes/Processus d'approvisionnement simple.md",
-    "4-Indexes/Flux MM.md",
-    "4-Indexes/Prérequis Flux Achat.md",
-    "6-Notes/Donnée Maitres.md",
-    "6-Notes/BP.md",
-    "6-Notes/NEU.md",
     "Untitled.canvas",
-    "6-Notes/Untitled.md",
-    "6-Notes/Contrat.md",
-    "6-Notes/ME31K.md",
-    "6-Notes/Poste de contrat-cadre.md",
-    "6-Notes/Demande d'achat–Étendu.md",
-    "6-Notes/Répartition des sources d'approvisionnement.md",
-    "6-Notes/Processus avancé d'approvisionnement.md",
-    "6-Notes/ME51N.md",
-    "6-Notes/Gestion des répartitions de quotas.md",
-    "6-Notes/Répartition des quotas.md",
     "Untitled 1.canvas",
     "1-Rough Notes/test.txt",
     "1-Rough Notes/Nouveau Document texte.txt",
