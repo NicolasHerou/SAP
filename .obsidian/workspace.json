@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "86ec068dd475a241",
+    "id": "0535030f68a4a65d",
     "type": "split",
     "children": [
       {
-        "id": "6c04068964907a78",
+        "id": "d058bf7a562e6a8d",
         "type": "tabs",
         "children": [
           {
-            "id": "fde9bbc8a0a46a89",
+            "id": "6663a53759c3df67",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4-Indexes/Condition Techenique.md",
+                "file": "Notes SAP/6-Notes/Affichage du stock magasin.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Condition Techenique"
+              "title": "Affichage du stock magasin"
             }
           }
         ]
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "4e1663912485cefa",
+    "id": "9124c8f3eb95f0b3",
     "type": "split",
     "children": [
       {
-        "id": "2c82786ddf71445b",
+        "id": "a558e52164042160",
         "type": "tabs",
         "children": [
           {
-            "id": "9b85df41ae6e0279",
+            "id": "ac714144d328cf3a",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -47,12 +47,12 @@
             }
           },
           {
-            "id": "39722e10d218b00c",
+            "id": "d63c0211b1e6a36f",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#FB50",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -64,7 +64,7 @@
             }
           },
           {
-            "id": "edd7b30c5acd67ca",
+            "id": "f44606976ad296f7",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -77,51 +77,50 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "6bc3d9beb9a925b4",
+    "id": "4e83a8c440b4894c",
     "type": "split",
     "children": [
       {
-        "id": "0fc2ded622cd90ac",
+        "id": "eb5d0c663e2b7db8",
         "type": "tabs",
         "children": [
           {
-            "id": "6865529373acee6c",
+            "id": "42b7fe6d2f89a054",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4-Indexes/Condition Techenique.md",
                 "collapseAll": false,
-                "extraContext": true,
+                "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": true,
-                "searchQuery": "fb50",
+                "showSearch": false,
+                "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Condition Techenique"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "c3d0a101156e8c3e",
+            "id": "cf44a1b5cfeb2865",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5-Templates/Full Note.md",
+                "file": "1-Rough Notes/Logistics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Full Note"
+              "title": "Outgoing links from Logistics"
             }
           },
           {
-            "id": "af0e82ef4aafba64",
+            "id": "f242b1bb6d7394f4",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -134,15 +133,15 @@
             }
           },
           {
-            "id": "3143c2b683c4ee77",
+            "id": "a09da2904197eb68",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "5-Templates/Full Note.md"
+                "file": "test3.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Full Note"
+              "title": "Outline of test3"
             }
           }
         ]
@@ -153,53 +152,44 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "fde9bbc8a0a46a89",
+  "active": "ac714144d328cf3a",
   "lastOpenFiles": [
-    "4-Indexes/Flux contrat.md",
-    "4-Indexes/Condition Techenique.md",
-    "6-Notes/Source Liste.md",
-    "6-Notes/Gestion des répertoires des sources d'approvisionnement.md",
-    "6-Notes/ME01.md",
-    "4-Indexes/Prérequis MM.md",
-    "4-Indexes/Priorité d'afection des sources.md",
-    "6-Notes/Fiche infos-achats.md",
-    "6-Notes/MAHN.md",
-    "6-Notes/Donnée Organisationnel.md",
-    "6-Notes/Processus d'approvisionnement simple.md",
-    "4-Indexes/Flux MM.md",
-    "4-Indexes/Prérequis Flux Achat.md",
-    "6-Notes/Donnée Maitres.md",
-    "6-Notes/BP.md",
-    "6-Notes/NEU.md",
-    "Untitled.canvas",
+    "test2.md",
+    "Idon't know.md",
+    "test3.md",
+    "Notes SAP/6-Notes/Affichage du stock magasin.md",
+    "5-Templates/Full Note.md",
+    "Question SAP Consultant/New mission.md",
+    "Question SAP Consultant/Rencontre avec le client.md",
+    "Question SAP Consultant/Première mission.md",
+    "Question SAP Consultant/Nouveau arrivant.md",
+    "1-Rough Notes/Préparation mission.md",
+    "3-Tags/consultance.md",
+    "Question SAP Consultant",
+    "Assets/Untitled.md",
+    "4-Indexes/Untitled.md",
+    "3-Tags/Untitled.md",
+    "2-Sources Material/Untitled.md",
     "6-Notes/Untitled.md",
-    "6-Notes/Contrat.md",
-    "6-Notes/ME31K.md",
-    "6-Notes/Poste de contrat-cadre.md",
-    "6-Notes/Demande d'achat–Étendu.md",
-    "6-Notes/Répartition des sources d'approvisionnement.md",
-    "6-Notes/Processus avancé d'approvisionnement.md",
-    "6-Notes/ME51N.md",
-    "6-Notes/Gestion des répartitions de quotas.md",
-    "6-Notes/Répartition des quotas.md",
-    "Untitled 1.canvas",
-    "1-Rough Notes/test.txt",
-    "1-Rough Notes/Nouveau Document texte.txt",
-    "Sourcing and Procurement in SAP",
-    "Assets",
+    "1-Rough Notes/Logistics.md",
+    "6-Notes/2024-11-30.md",
+    "Welcome.md",
     "6-Notes",
     "5-Templates",
     "4-Indexes",
     "3-Tags",
     "2-Sources Material",
-    "1-Rough Notes"
+    "1-Rough Notes",
+    "Assets"
   ]
 }

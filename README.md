@@ -1,5 +1,4 @@
-Cliker sur SAP à coté de NicolasHerou/SAP <br>
-Le bouton vert coper le lien pour le coller sur l'URL de GitHub Destop <br> <br>
+Cliker sur le bouton vert coper le lien pour le coller sur l'URL de GitHub Destop <br> <br>
 
 Intaller GitHUB Desktop https://github.com/apps/desktop <br>
 Pour GitHUB skip quand c'est possible <br>
