@@ -64,6 +64,20 @@
             }
           },
           {
+            "id": "f9904509100528bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6-Notes/MIGO.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MIGO"
+            }
+          },
+          {
             "id": "f37c1d8f88444363",
             "type": "leaf",
             "state": {
@@ -162,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -234,7 +248,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6-Notes/OMBG.md",
+                "file": "6-Notes/MIGO.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -244,7 +258,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for OMBG"
+              "title": "Backlinks for MIGO"
             }
           },
           {
@@ -302,10 +316,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "26204ad90335fa09",
+  "active": "f9904509100528bf",
   "lastOpenFiles": [
-    "6-Notes/Enregistrement de mouvement de stock.md",
+    "6-Notes/Untitled 2.md",
     "6-Notes/OMBG.md",
+    "6-Notes/Enregistrement de mouvement de stock.md",
     "6-Notes/Untitled 1.md",
     "6-Notes/Création de facture fournisseur.md",
     "6-Notes/MIRO.md",
@@ -330,7 +345,6 @@
     "6-Notes/Purchase Order.md",
     "6-Notes/Demande d'achat.md",
     "4-Indexes/Condition Techenique.md",
-    "6-Notes/Source Liste.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "1-Rough Notes/test.txt",
