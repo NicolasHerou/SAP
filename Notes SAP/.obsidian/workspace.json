@@ -13,29 +13,156 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4-Indexes/Buiness-Case Techenifutur TS-450.md",
+                "file": "6-Notes/Vérifier stock.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Buiness-Case Techenifutur TS-450"
+              "title": "Vérifier stock"
             }
           },
           {
-            "id": "7c40b10a48fd3d5a",
+            "id": "6456de146cba3a4d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6-Notes/FB03.md",
+                "file": "6-Notes/Création de facture fournisseur.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "FB03"
+              "title": "Création de facture fournisseur"
+            }
+          },
+          {
+            "id": "86d77724ea72acaa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6-Notes/Enregistrement de mouvement de stock.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Enregistrement de mouvement de stock"
+            }
+          },
+          {
+            "id": "26204ad90335fa09",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6-Notes/OMBG.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "OMBG"
+            }
+          },
+          {
+            "id": "f37c1d8f88444363",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6-Notes/Vérifier stock.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Vérifier stock"
+            }
+          },
+          {
+            "id": "3a2c540afbda7f71",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6-Notes/MD04.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MD04"
+            }
+          },
+          {
+            "id": "c61ee52e1b73302d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4-Indexes/Bi/Quatrième partie.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Quatrième partie"
+            }
+          },
+          {
+            "id": "bf2833a75404aa1c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4-Indexes/Bi/Troisième Partie.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Troisième Partie"
+            }
+          },
+          {
+            "id": "fbd4888e31fe881a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4-Indexes/Bi/Deuxième Partie.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Deuxième Partie"
+            }
+          },
+          {
+            "id": "c6ab98498c0a7306",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4-Indexes/Bi/Première Partie.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Première Partie"
+            }
+          },
+          {
+            "id": "3fd41960178353a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4-Indexes/Bi/Master Data.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Master Data"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -66,7 +193,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#FB70",
+                "query": "tag:#FB50",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -107,17 +234,17 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "6-Notes/OMBG.md",
                 "collapseAll": false,
-                "extraContext": false,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
+                "showSearch": true,
+                "searchQuery": "fb50",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Untitled"
+              "title": "Backlinks for OMBG"
             }
           },
           {
@@ -153,19 +280,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4-Indexes/Buiness-Case Techenifutur TS-450.md"
+                "file": "5-Templates/Full Note.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Buiness-Case Techenifutur TS-450"
+              "title": "Outline of Full Note"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,35 +302,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fde9bbc8a0a46a89",
+  "active": "26204ad90335fa09",
   "lastOpenFiles": [
-    "Untitled.canvas",
-    "4-Indexes/Bi/Master Data.md",
+    "6-Notes/Enregistrement de mouvement de stock.md",
+    "6-Notes/OMBG.md",
+    "6-Notes/Untitled 1.md",
+    "6-Notes/Création de facture fournisseur.md",
+    "6-Notes/MIRO.md",
+    "6-Notes/MIGO.md",
     "4-Indexes/Buiness-Case Techenifutur TS-450.md",
-    "4-Indexes/Untitled.md",
+    "6-Notes/Vérifier stock.md",
+    "6-Notes/MD04.md",
     "4-Indexes/Bi/Cinquième partie.md",
     "4-Indexes/Bi/Quatrième partie.md",
     "4-Indexes/Bi/Troisième Partie.md",
-    "4-Indexes/Condition Techenique.md",
-    "4-Indexes/Bi/Deuxième Partie.md",
     "4-Indexes/Bi/Première Partie.md",
-    "4-Indexes/Flux contrat.md",
-    "6-Notes/Première Partie.md",
-    "4-Indexes/Bi",
-    "4-Indexes/Flux MM.md",
-    "4-Indexes/Prérequis Flux Achat.md",
-    "4-Indexes/Prérequis MM.md",
-    "4-Indexes/Priorité d'afection des sources.md",
-    "6-Notes/FB03.md",
+    "4-Indexes/Bi/Deuxième Partie.md",
+    "4-Indexes/Bi/Master Data.md",
+    "6-Notes/Gestion des données base fournisseurs.md",
     "6-Notes/Untitled.md",
-    "6-Notes/Contrat.md",
-    "6-Notes/MIGO.md",
-    "6-Notes/Saisir facture.md",
+    "4-Indexes/Bi",
+    "6-Notes/Gestion Factures Business Partner Fournisseur.md",
     "6-Notes/Créer facture fournisseur.md",
-    "6-Notes/Création facture.md",
-    "6-Notes/Vérifier stock.md",
-    "6-Notes/FB02.md",
-    "6-Notes/FB50.md",
+    "4-Indexes/Flux contrat.md",
+    "6-Notes/Entrée marchandises.md",
+    "6-Notes/Contrat.md",
+    "6-Notes/Purchase Order.md",
+    "6-Notes/Demande d'achat.md",
+    "4-Indexes/Condition Techenique.md",
+    "6-Notes/Source Liste.md",
+    "Untitled.canvas",
     "Untitled 1.canvas",
     "1-Rough Notes/test.txt",
     "1-Rough Notes/Nouveau Document texte.txt",
