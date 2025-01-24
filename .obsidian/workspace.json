@@ -41,16 +41,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes SAP/4-Indexes/Utilisation du contrôle des factures logistique.md",
+                "file": "Notes SAP/4-Indexes/TS452-Flux.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Utilisation du contrôle des factures logistique"
+              "title": "TS452-Flux"
+            }
+          },
+          {
+            "id": "2e70acd8332ad219",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes SAP/4-Indexes/Utilisation des différents types de contrôle des factures.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Utilisation des différents types de contrôle des factures"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -122,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes SAP/4-Indexes/Utilisation du contrôle des factures logistique.md",
+                "file": "Notes SAP/4-Indexes/Utilisation des différents types de contrôle des factures.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +146,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Utilisation du contrôle des factures logistique"
+              "title": "Backlinks for Utilisation des différents types de contrôle des factures"
             }
           },
           {
@@ -192,22 +206,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e78c2902a0c883e1",
+  "active": "2e70acd8332ad219",
   "lastOpenFiles": [
     "Notes SAP/4-Indexes/TS452-Flux.md",
+    "Notes SAP/4-Indexes/Utilisation des différents types de contrôle des factures.md",
+    "Notes SAP/4-Indexes/Utilisation du contrôle des factures logistique.md",
+    "Notes SAP/3-Tags/PO.md",
     "Notes SAP/3-Tags/EM-EF.md",
     "Notes SAP/3-Tags/EM.md",
     "Notes SAP/4-Indexes/Contrôle facture basé sur EM.md",
     "Notes SAP/4-Indexes/Condition Techenique.md",
     "Notes SAP/4-Indexes/Buiness-Case Techenifutur TS-450.md",
     "Notes SAP/3-Tags/Stock.md",
-    "Notes SAP/4-Indexes/Utilisation du contrôle des factures logistique.md",
     "Notes SAP/4-Indexes/Priorité d'afection des sources.md",
     "Notes SAP/4-Indexes/Prérequis MM.md",
     "Notes SAP/3-Tags/EF.md",
-    "Notes SAP/3-Tags/PO.md",
     "Notes SAP/3-Tags/CF.md",
-    "Notes SAP/4-Indexes/Utilisation des différents types de contrôle des factures.md",
     "Notes SAP/4-Indexes/Flux contrat.md",
     "Notes SAP/3-Tags/PMP.md",
     "Notes SAP/6-Notes/Affichage du stock magasin.md",
