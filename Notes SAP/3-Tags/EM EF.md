@@ -1,0 +1,1 @@
+Compte entrée marchandise entrée facture
