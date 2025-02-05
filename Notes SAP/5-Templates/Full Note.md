@@ -1,3 +1,7 @@
+---
+date:
+---
+%%  %%
 {{date}} {{time}}
 
 Tags 
