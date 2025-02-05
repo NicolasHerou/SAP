@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes SAP/5-Templates/Full Note.md",
+                "file": "Notes SAP/5-Templates/Classic Note.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Full Note"
+              "title": "Classic Note"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes SAP/5-Templates/Full Note.md",
+                "file": "Notes SAP/5-Templates/Classic Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Full Note"
+              "title": "Backlinks for Classic Note"
             }
           },
           {
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes SAP/5-Templates/Full Note.md",
+                "file": "Notes SAP/5-Templates/Classic Note.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Full Note"
+              "title": "Outline of Classic Note"
             }
           },
           {
@@ -203,7 +203,7 @@
   "lastOpenFiles": [
     "test.md",
     "Notes SAP/6-Notes/ABAP runtime error (DUMP analyse).md",
-    "Notes SAP/5-Templates/Full Note.md",
+    "Notes SAP/5-Templates/Classic Note.md",
     "2025-02-05.md",
     "Notes SAP/6-Notes/ABAP Documentation and examples.md",
     "Notes SAP/Untitled.canvas",
