@@ -1,12 +1,4 @@
 ---
-date:
+date-added: "{{date}} {{time}}"
+tags:
 ---
-
-{{date}} {{time}}
-
-Tags 
-
-# {{Title}}
-
-
-# References
