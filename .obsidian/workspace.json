@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes SAP/6-Notes/ABAP Documentation and examples.md",
+                "file": "Notes SAP/6-Notes/ABAP runtime error (DUMP analyse).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ABAP Documentation and examples"
+              "title": "ABAP runtime error (DUMP analyse)"
+            }
+          },
+          {
+            "id": "a4dc7eb6acadfadc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "test.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "test"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes SAP/6-Notes/ABAP Documentation and examples.md",
+                "file": "test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for ABAP Documentation and examples"
+              "title": "Backlinks for test"
             }
           },
           {
@@ -164,11 +179,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "71ff5b7c118042c1",
+  "active": "a4dc7eb6acadfadc",
   "lastOpenFiles": [
-    "Notes SAP/5-Templates/Full Note.md",
-    "Notes SAP/6-Notes/ABAP Documentation and examples.md",
     "Notes SAP/6-Notes/ABAP runtime error (DUMP analyse).md",
+    "test.md",
+    "Notes SAP/5-Templates/Full Note.md",
+    "2025-02-05.md",
+    "Notes SAP/6-Notes/ABAP Documentation and examples.md",
     "Notes SAP/Untitled.canvas",
     "Notes SAP/3-Tags/EM-EF.md",
     "Notes SAP/3-Tags/BC.md",
@@ -191,8 +208,6 @@
     "Notes SAP/3-Tags/PMP.md",
     "Notes SAP/6-Notes/Affichage du stock magasin.md",
     "test2.md",
-    "Idon't know.md",
-    "test3.md",
     "Question SAP Consultant",
     "6-Notes",
     "5-Templates",
