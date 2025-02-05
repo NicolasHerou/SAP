@@ -81,12 +81,14 @@
             "id": "71ff5b7c118042c1",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.4"
+                "file": "Notes SAP/3-Tags/BC.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.4"
+              "icon": "lucide-file",
+              "title": "BC"
             }
           }
         ],
@@ -163,6 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notes SAP/3-Tags/BC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +175,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for BC"
             }
           },
           {
