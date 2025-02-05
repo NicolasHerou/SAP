@@ -3,5 +3,6 @@
   "newFileLocation": "folder",
   "newFileFolderPath": "6-Notes",
   "promptDelete": false,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "propertiesInDocument": "visible"
 }
