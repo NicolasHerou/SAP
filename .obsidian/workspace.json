@@ -76,9 +76,21 @@
               "icon": "lucide-file",
               "title": "TS452-Flux"
             }
+          },
+          {
+            "id": "71ff5b7c118042c1",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.4"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -97,7 +109,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -150,7 +163,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes SAP/4-Indexes/TS452-Flux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +172,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for TS452-Flux"
+              "title": "Backlinks"
             }
           },
           {
@@ -220,7 +232,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b726553c486495e8",
+  "active": "71ff5b7c118042c1",
   "lastOpenFiles": [
     "Notes SAP/4-Indexes/Utilisation du contrôle des factures logistique.md",
     "Notes SAP/4-Indexes/TS452-Flux.md",
