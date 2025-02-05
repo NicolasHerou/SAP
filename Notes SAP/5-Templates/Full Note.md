@@ -1,12 +1,6 @@
 ---
-date:
+date: 
+tags:
 ---
-%%  %%
-{{date}} {{time}}
-
-Tags 
-
-# {{Title}}
-
 
 # References
