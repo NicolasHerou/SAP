@@ -143,7 +143,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -155,13 +157,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "test3.md"
+                "file": "test.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of test3"
+              "title": "Outline of test"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -179,7 +185,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a4dc7eb6acadfadc",
+  "active": "a09da2904197eb68",
   "lastOpenFiles": [
     "Notes SAP/6-Notes/ABAP runtime error (DUMP analyse).md",
     "test.md",
