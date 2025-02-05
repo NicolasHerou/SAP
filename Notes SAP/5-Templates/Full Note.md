@@ -1,6 +1,12 @@
 ---
-date: 2025-02-05
-tags:
+date:
 ---
+
+{{date}} {{time}}
+
+Tags 
+
+# {{Title}}
+
 
 # References

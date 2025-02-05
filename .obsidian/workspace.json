@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "test.md",
+                "file": "Notes SAP/5-Templates/Full Note.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "test"
+              "title": "Full Note"
             }
           }
         ],
@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"cssclasses\"]",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,8 +89,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "test.md",
+                "file": "Notes SAP/5-Templates/Full Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for test"
+              "title": "Backlinks for Full Note"
             }
           },
           {
@@ -158,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "test.md",
+                "file": "Notes SAP/5-Templates/Full Note.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of test"
+              "title": "Outline of Full Note"
             }
           },
           {
@@ -200,10 +199,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d63c0211b1e6a36f",
+  "active": "a4dc7eb6acadfadc",
   "lastOpenFiles": [
-    "Notes SAP/6-Notes/ABAP runtime error (DUMP analyse).md",
     "test.md",
+    "Notes SAP/6-Notes/ABAP runtime error (DUMP analyse).md",
     "Notes SAP/5-Templates/Full Note.md",
     "2025-02-05.md",
     "Notes SAP/6-Notes/ABAP Documentation and examples.md",
