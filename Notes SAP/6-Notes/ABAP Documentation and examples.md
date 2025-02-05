@@ -1,10 +1,6 @@
-10-01-2025 09:56
-
-Tags 
-
-# ABAP Documentation and examples
-
-
-# References
-
-[[ABAPHELP]]
+---
+date-added: 05-02-2025 18:56
+tags:
+  - ABAP
+url: "[[ABAPHELP]]"
+---
