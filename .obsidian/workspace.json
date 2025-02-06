@@ -78,7 +78,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#MM",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -99,7 +99,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -113,38 +114,6 @@
         "id": "eb5d0c663e2b7db8",
         "type": "tabs",
         "children": [
-          {
-            "id": "42b7fe6d2f89a054",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks"
-            }
-          },
-          {
-            "id": "cf44a1b5cfeb2865",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "1-Rough Notes/Logistics.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from Logistics"
-            }
-          },
           {
             "id": "f242b1bb6d7394f4",
             "type": "leaf",
@@ -188,8 +157,7 @@
               "title": "All properties"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -207,7 +175,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f1171cd6ee7eddfa",
+  "active": "d63c0211b1e6a36f",
   "lastOpenFiles": [
     "Notes SAP/6-Notes/ABAP Documentation and examples.md",
     "Notes SAP/6-Notes/ABAPHELP.md",
