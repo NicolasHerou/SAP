@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "Entrée marchandises",
+      "path": "Notes SAP/6-Notes/Entrée marchandises.md"
+    },
+    {
       "basename": "EM",
       "path": "Notes SAP/3-Tags/EM.md"
+    },
+    {
+      "basename": "Commande d'achat (EM)",
+      "path": "Notes SAP/7-Exercies/Case study ST452/Commande d'achat (EM).md"
+    },
+    {
+      "basename": "SE16N",
+      "path": "Notes SAP/6-Notes/SE16N.md"
+    },
+    {
+      "basename": "OMS9",
+      "path": "OMS9.md"
     },
     {
       "basename": "Crée article",

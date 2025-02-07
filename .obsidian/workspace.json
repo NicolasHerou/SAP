@@ -19,8 +19,7 @@
               },
               "icon": "lucide-file",
               "title": "Commande d'achat (EM)"
-            },
-            "group": "98fcca2a6a8213c9"
+            }
           },
           {
             "id": "ffbac33eb057268a",
@@ -56,60 +55,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes SAP/3-Tags/EM.md",
+                "file": "Notes SAP/6-Notes/Entrée marchandises.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "EM"
+              "title": "Entrée marchandises"
             }
           }
         ],
         "currentTab": 3
-      },
-      {
-        "id": "8c09e0428910d0f6",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "f527f2cf6499a175",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Notes SAP/7-Exercies/Case study ST452/Commande d'achat (EM).md",
-                "options": {
-                  "collapse-filter": false,
-                  "search": "",
-                  "localJumps": 5,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.5087618855792592,
-                  "close": true
-                }
-              },
-              "icon": "lucide-git-fork",
-              "title": "Graph of Commande d'achat (EM)"
-            },
-            "group": "98fcca2a6a8213c9"
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -290,6 +245,10 @@
   },
   "active": "fb9b72cbe270e08f",
   "lastOpenFiles": [
+    "Notes SAP/3-Tags/EM.md",
+    "Notes SAP/7-Exercies/Case study ST452/Commande d'achat (EM).md",
+    "Notes SAP/6-Notes/SE16N.md",
+    "OMS9.md",
     "Notes SAP/6-Notes/Crée article.md",
     "Notes SAP/7-Exercies/Case study ST452.md",
     "Notes SAP/7-Exercies/Case study ST452/Customisation type articles.md",
@@ -313,11 +272,7 @@
     "Notes SAP/4-Indexes/Condition Techenique.md",
     "Notes SAP/Assets/Pasted image 20250129113110.png",
     "Notes SAP/7-Exercies",
-    "Notes SAP/7-Exercies/Case study ST452/Commande d'achat (EM).md",
     "Notes SAP/4-Indexes/Contrôle facture basé sur EM.md",
-    "Notes SAP/4-Indexes/Flux MM.md",
-    "Notes SAP/4-Indexes/Prérequis Flux Achat.md",
-    "Notes SAP/4-Indexes/Prérequis MM.md",
     "Notes SAP/Assets 1/Pasted image 20250131115114.png",
     "Notes SAP/Assets 1/Pasted image 20250131115100.png",
     "Notes SAP/Assets 1/Pasted image 20250131114950.png",
