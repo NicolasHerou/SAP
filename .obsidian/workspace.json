@@ -121,6 +121,7 @@
       {
         "id": "a558e52164042160",
         "type": "tabs",
+        "dimension": 76.74074074074075,
         "children": [
           {
             "id": "ac714144d328cf3a",
@@ -160,6 +161,23 @@
               "state": {},
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
+            }
+          }
+        ]
+      },
+      {
+        "id": "9de1174f47d3ab50",
+        "type": "tabs",
+        "dimension": 23.25925925925926,
+        "children": [
+          {
+            "id": "d02b0eaae6d5230f",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
             }
           }
         ]
