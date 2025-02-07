@@ -53,17 +53,14 @@
             "id": "fb9b72cbe270e08f",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Notes SAP/Untitled.canvas",
-                "viewState": {
-                  "x": -19,
-                  "y": -130,
-                  "zoom": -0.38948274107473324
-                }
+                "file": "Notes SAP/6-Notes/EM-CF.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "icon": "lucide-file",
+              "title": "EM-CF"
             }
           }
         ],
@@ -248,13 +245,19 @@
   },
   "active": "fb9b72cbe270e08f",
   "lastOpenFiles": [
+    "2025-02-05.md",
+    "Notes SAP/6-Notes/EM-CF.md",
+    "Notes SAP/6-Notes/OMS9.md",
+    "README.md",
+    "test.md",
+    "test2.md",
+    "Entrée founisseur.md",
     "Notes SAP/Assets/Pasted image 20250131084133.png",
     "Notes SAP/Untitled.canvas",
     "Notes SAP/6-Notes/Entrée marchandises.md",
     "Notes SAP/3-Tags/EM.md",
     "Notes SAP/7-Exercies/Case study ST452/Commande d'achat (EM).md",
     "Notes SAP/6-Notes/SE16N.md",
-    "OMS9.md",
     "Notes SAP/6-Notes/Crée article.md",
     "Notes SAP/7-Exercies/Case study ST452.md",
     "Notes SAP/7-Exercies/Case study ST452/Customisation type articles.md",
@@ -270,11 +273,6 @@
     "Notes SAP/7-Exercies/BC Technifutur2/Demande d'achat.md",
     "Notes SAP/7-Exercies/BC Technifutur2/Entrée Marchandise.md",
     "Notes SAP/7-Exercies/BC Technifutur2/Partenaire T-S50A69.md",
-    "Notes SAP/7-Exercies/BC Technifutur2/Transfert Marchandise.md",
-    "Notes SAP/7-Exercies/BC Technifutur2/Vérification pour l'agent quand le montant est trop élevé.md",
-    "Notes SAP/7-Exercies/Case study ST452/Source d'approvisionnement.md",
-    "Notes SAP/4-Indexes/Flux contrat.md",
-    "Notes SAP/4-Indexes/Application des escomptes.md",
     "Notes SAP/Assets/Pasted image 20250129113110.png",
     "Notes SAP/7-Exercies",
     "Notes SAP/Assets/Pasted image 20250131115114.png",
@@ -285,7 +283,6 @@
     "Notes SAP/Assets/Pasted image 20250131105041.png",
     "Notes SAP/Assets/Pasted image 20250131104810.png",
     "Notes SAP/Assets/Pasted image 20250131104751.png",
-    "Notes SAP/Assets/Pasted image 20250131104737.png",
     "Notes SAP/Assets 1",
     "Notes SAP/Assets",
     "Notes SAP/7-Exercies/Case study ST452",
