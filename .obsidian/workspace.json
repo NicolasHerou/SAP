@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes SAP/4-Indexes/Contrôle facture basé sur EM.md",
+                "file": "Notes SAP/6-Notes/Entrée marchandises.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Contrôle facture basé sur EM"
+              "title": "Entrée marchandises"
             },
             "group": "98fcca2a6a8213c9"
           }
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notes SAP/4-Indexes/Contrôle facture basé sur EM.md",
+                "file": "Notes SAP/6-Notes/Entrée marchandises.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -62,7 +62,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Contrôle facture basé sur EM"
+              "title": "Graph of Entrée marchandises"
             },
             "group": "98fcca2a6a8213c9"
           }
@@ -119,8 +119,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -183,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes SAP/4-Indexes/Contrôle facture basé sur EM.md",
+                "file": "Notes SAP/6-Notes/Entrée marchandises.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +192,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Contrôle facture basé sur EM"
+              "title": "Backlinks for Entrée marchandises"
             }
           },
           {
@@ -202,12 +201,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes SAP/4-Indexes/Contrôle facture basé sur EM.md",
+                "file": "Notes SAP/6-Notes/Entrée marchandises.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Contrôle facture basé sur EM"
+              "title": "Outgoing links from Entrée marchandises"
             }
           }
         ]
@@ -228,8 +227,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f527f2cf6499a175",
+  "active": "ac714144d328cf3a",
   "lastOpenFiles": [
+    "Notes SAP/4-Indexes/Utilisation du contrôle des factures logistique.md",
+    "EM-CF.md",
+    "Entrée founisseur.md",
+    "Notes SAP/4-Indexes/Contrôle facture basé sur EM.md",
     "Notes SAP/6-Notes/ABAP Documentation and examples.md",
     "Notes SAP/6-Notes/ABAPHELP.md",
     "Notes SAP/4-Indexes/Application des escomptes.md",
@@ -242,10 +245,8 @@
     "Notes SAP/Untitled.canvas",
     "Notes SAP/3-Tags/EM-EF.md",
     "Notes SAP/3-Tags/BC.md",
-    "Notes SAP/4-Indexes/Utilisation du contrôle des factures logistique.md",
     "Notes SAP/4-Indexes/TS452-Flux.md",
     "Notes SAP/4-Indexes/Utilisation des différents types de contrôle des factures.md",
-    "Notes SAP/4-Indexes/Contrôle facture basé sur EM.md",
     "Notes SAP/3-Tags/PrixStd.md",
     "Notes SAP/3-Tags/PO.md",
     "Notes SAP/3-Tags/EM.md",
@@ -255,8 +256,6 @@
     "Notes SAP/4-Indexes/Priorité d'afection des sources.md",
     "Notes SAP/4-Indexes/Prérequis MM.md",
     "Notes SAP/3-Tags/EF.md",
-    "Notes SAP/3-Tags/CF.md",
-    "Notes SAP/4-Indexes/Flux contrat.md",
     "Question SAP Consultant",
     "6-Notes",
     "5-Templates",
