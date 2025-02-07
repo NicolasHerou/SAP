@@ -1,10 +1,10 @@
 1: [[Configuration]]
 2: [[Création article T-RTP369]]
 3: [[Partenaire T-S50A69]]
-4: [[Notes SAP/4-Indexes/BC Technifutur2/Création de Contrat|Création de Contrat]]
+4: [[7-Exercies/Création de Contrat|Création de Contrat]]
 5: [[Source d'approvisionnement]]
-6: [[Notes SAP/4-Indexes/BC Technifutur2/Demande d'achat|Demande d'achat]]
-7: [[Entrée Marchandise]]
+6: [[7-Exercies/Demande d'achat|Demande d'achat]]
+7: [[7-Exercies/Entrée Marchandise]]
 8: [[Transfert Marchandise]]
 9: [[Vérification pour l'agent quand le montant est trop élevé]]
 

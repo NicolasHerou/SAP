@@ -1,6 +1,6 @@
 |                                    |
 | ---------------------------------- |
-| [[Demande d'achat]]                |
+| [[7-Exercies/Demande d'achat]]                |
 | [[Entrée marchandises]]            |
 | [[Création facture]]               |
 | [[Création contrat d'achat]]       |
