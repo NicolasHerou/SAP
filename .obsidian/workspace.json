@@ -42,7 +42,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7-Exercies/Configuration.md",
+                "file": "7-Exercies/BC Technifutur2/Configuration.md",
                 "mode": "source",
                 "source": false
               },
@@ -56,12 +56,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7-Exercies/Partenaire T-S50A69.md",
+                "file": "7-Exercies/BC Technifutur2/Vérification pour l'agent quand le montant est trop élevé.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Partenaire T-S50A69"
+              "title": "Vérification pour l'agent quand le montant est trop élevé"
             }
           }
         ],
@@ -270,34 +270,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fb9b72cbe270e08f",
+  "active": "ac714144d328cf3a",
   "lastOpenFiles": [
-    "7-Exercies/Vérification pour l'agent quand le montant est trop élevé.md",
-    "7-Exercies/Source d'approvisionnement.md",
-    "7-Exercies/Transfert Marchandise.md",
-    "7-Exercies/Partenaire T-S50A69.md",
-    "7-Exercies/Entrée Marchandise.md",
-    "7-Exercies/Configuration.md",
-    "Notes SAP/4-Indexes/Case study ST452.md",
-    "Notes SAP/4-Indexes/Condition Techenique.md",
-    "7-Exercies/Application des escomptes.md",
+    "7-Exercies/BC Technifutur2/Transfert Marchandise.md",
     "7-Exercies/Business-Case Technifutur-2.md",
     "7-Exercies/Buiness-Case Techenifutur TS-450.md",
+    "7-Exercies/Case study ST452/Source d'approvisionnement.md",
+    "7-Exercies/BC Technifutur2/Partenaire T-S50A69.md",
+    "7-Exercies/BC Technifutur2/Entrée Marchandise.md",
+    "7-Exercies/BC Technifutur2/Demande d'achat.md",
+    "7-Exercies/BC Technifutur2/Création de Contrat.md",
+    "7-Exercies/BC Technifutur2/Création article T-RTP369.md",
+    "7-Exercies/BC Technifutur2/Configuration.md",
+    "Notes SAP/4-Indexes/Flux contrat.md",
+    "Notes SAP/4-Indexes/Application des escomptes.md",
+    "7-Exercies/BC Technifutur2/Master Data.md",
+    "7-Exercies/BC Technifutur2/Vérification pour l'agent quand le montant est trop élevé.md",
+    "Notes SAP/4-Indexes/Case study ST452.md",
+    "Notes SAP/4-Indexes/Condition Techenique.md",
     "7-Exercies/Bi/Deuxième Partie.md",
     "7-Exercies/Bi/Cinquième partie.md",
-    "7-Exercies/Création article T-RTP369.md",
     "Notes SAP/Assets/Pasted image 20250129113110.png",
     "7-Exercies",
     "7-Exercies/Case study ST452/Commande d'achat (EM).md",
     "Notes SAP/4-Indexes/Contrôle facture basé sur EM.md",
-    "Notes SAP/4-Indexes/Flux contrat.md",
     "Notes SAP/4-Indexes/Flux MM.md",
     "Notes SAP/4-Indexes/Prérequis Flux Achat.md",
     "Notes SAP/4-Indexes/Prérequis MM.md",
     "Notes SAP/4-Indexes/Priorité d'afection des sources.md",
     "Notes SAP/4-Indexes/TS452-Flux.md",
     "Notes SAP/4-Indexes/Utilisation des différents types de contrôle des factures.md",
-    "Notes SAP/4-Indexes/Utilisation du contrôle des factures logistique.md",
     "Assets/Pasted image 20250131115114.png",
     "Assets/Pasted image 20250131115100.png",
     "Assets/Pasted image 20250131114950.png",
@@ -309,10 +311,8 @@
     "Assets/Pasted image 20250131104737.png",
     "Assets",
     "Notes SAP/Assets",
-    "Notes SAP/6-Notes/Traiter partenaire.md",
-    "Notes SAP/6-Notes/OMS2.md",
     "7-Exercies/Case study ST452",
-    "Notes SAP/4-Indexes/BC Technifutur2",
+    "7-Exercies/BC Technifutur2",
     "Notes SAP/Untitled.canvas",
     "Question SAP Consultant",
     "6-Notes",

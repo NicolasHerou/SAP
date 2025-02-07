@@ -1,6 +1,6 @@
 |                                    |
 | ---------------------------------- |
-| [[7-Exercies/Demande d'achat]]                |
+| [[7-Exercies/BC Technifutur2/Demande d'achat]]                |
 | [[Entrée marchandises]]            |
 | [[Création facture]]               |
 | [[Création contrat d'achat]]       |

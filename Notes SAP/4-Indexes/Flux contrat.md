@@ -1,7 +1,7 @@
 
 |                         |
 | ----------------------- |
-| [[7-Exercies/Demande d'achat]]     |
+| [[7-Exercies/BC Technifutur2/Demande d'achat]]     |
 | [[Contrat]]             |
 | [[Purchase Order]]      |
 | [[Entrée marchandises]] |
