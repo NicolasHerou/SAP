@@ -53,14 +53,17 @@
             "id": "fb9b72cbe270e08f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Notes SAP/6-Notes/Entrée marchandises.md",
-                "mode": "source",
-                "source": false
+                "file": "Notes SAP/Untitled.canvas",
+                "viewState": {
+                  "x": -19,
+                  "y": -130,
+                  "zoom": -0.38948274107473324
+                }
               },
-              "icon": "lucide-file",
-              "title": "Entrée marchandises"
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
             }
           }
         ],
@@ -245,6 +248,9 @@
   },
   "active": "fb9b72cbe270e08f",
   "lastOpenFiles": [
+    "Notes SAP/Assets/Pasted image 20250131084133.png",
+    "Notes SAP/Untitled.canvas",
+    "Notes SAP/6-Notes/Entrée marchandises.md",
     "Notes SAP/3-Tags/EM.md",
     "Notes SAP/7-Exercies/Case study ST452/Commande d'achat (EM).md",
     "Notes SAP/6-Notes/SE16N.md",
@@ -269,24 +275,21 @@
     "Notes SAP/7-Exercies/Case study ST452/Source d'approvisionnement.md",
     "Notes SAP/4-Indexes/Flux contrat.md",
     "Notes SAP/4-Indexes/Application des escomptes.md",
-    "Notes SAP/4-Indexes/Condition Techenique.md",
     "Notes SAP/Assets/Pasted image 20250129113110.png",
     "Notes SAP/7-Exercies",
-    "Notes SAP/4-Indexes/Contrôle facture basé sur EM.md",
-    "Notes SAP/Assets 1/Pasted image 20250131115114.png",
-    "Notes SAP/Assets 1/Pasted image 20250131115100.png",
-    "Notes SAP/Assets 1/Pasted image 20250131114950.png",
-    "Notes SAP/Assets 1/Pasted image 20250131114938.png",
-    "Notes SAP/Assets 1/Pasted image 20250131105103.png",
-    "Notes SAP/Assets 1/Pasted image 20250131105041.png",
-    "Notes SAP/Assets 1/Pasted image 20250131104810.png",
-    "Notes SAP/Assets 1/Pasted image 20250131104751.png",
-    "Notes SAP/Assets 1/Pasted image 20250131104737.png",
+    "Notes SAP/Assets/Pasted image 20250131115114.png",
+    "Notes SAP/Assets/Pasted image 20250131115100.png",
+    "Notes SAP/Assets/Pasted image 20250131114950.png",
+    "Notes SAP/Assets/Pasted image 20250131114938.png",
+    "Notes SAP/Assets/Pasted image 20250131105103.png",
+    "Notes SAP/Assets/Pasted image 20250131105041.png",
+    "Notes SAP/Assets/Pasted image 20250131104810.png",
+    "Notes SAP/Assets/Pasted image 20250131104751.png",
+    "Notes SAP/Assets/Pasted image 20250131104737.png",
     "Notes SAP/Assets 1",
     "Notes SAP/Assets",
     "Notes SAP/7-Exercies/Case study ST452",
     "Notes SAP/7-Exercies/BC Technifutur2",
-    "Notes SAP/Untitled.canvas",
     "Question SAP Consultant",
     "6-Notes",
     "5-Templates",
