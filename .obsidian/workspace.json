@@ -78,7 +78,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#MM",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -99,8 +99,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -206,7 +205,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d63c0211b1e6a36f",
+  "active": "ac714144d328cf3a",
   "lastOpenFiles": [
     "Notes SAP/6-Notes/ABAP Documentation and examples.md",
     "Notes SAP/6-Notes/ABAPHELP.md",
